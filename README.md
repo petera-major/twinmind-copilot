@@ -2,7 +2,8 @@
 
 A live AI meeting copilot that transcribes audio in real time and surfaces three contextual suggestions every 30 seconds — questions to ask, talking points, fact-checks, clarifications, and direct answers.
 
-**Live demo:** https://twinmind-copilot-pi.vercel.app/ 
+**Live demo:** <https://twinmind-copilot-pi.vercel.app/>
+
 **Stack:** Next.js 15 · TypeScript · Tailwind CSS · Groq API
 
 ---
